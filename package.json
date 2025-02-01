@@ -1,0 +1,23 @@
+{
+  "name": "lxk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXK-Admin/LXK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LXK-Admin/LXK/issues"
+  },
+  "homepage": "https://github.com/LXK-Admin/LXK#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
